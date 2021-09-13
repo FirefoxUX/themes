@@ -1,4 +1,5 @@
 {
+  "color": {
     "lush light": {
       "00 base_color": {
         "category": "color",
@@ -1311,4 +1312,5 @@
         "type": "color"
       }
     }
+  }
 }
