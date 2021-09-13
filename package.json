@@ -4,7 +4,7 @@
   "description": "Firefox Themes",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/FirefoxUX/themes/issues"
   },
-  "homepage": "https://github.com/FirefoxUX/themes#readme"
+  "homepage": "https://github.com/FirefoxUX/themes#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.0.2"
+  }
 }
