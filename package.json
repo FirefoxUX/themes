@@ -1,0 +1,23 @@
+{
+  "name": "firefox-themes",
+  "version": "1.0.0",
+  "description": "Firefox Themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirefoxUX/themes.git"
+  },
+  "keywords": [
+    "firefox",
+    "themes"
+  ],
+  "author": "Jules Simplicio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FirefoxUX/themes/issues"
+  },
+  "homepage": "https://github.com/FirefoxUX/themes#readme"
+}
