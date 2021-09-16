@@ -1,1 +1,1016 @@
-{"lush-light":{"00-base-color":{"value":"rgba(132, 149, 139, 1)"},"01-background-base":{"value":"rgba(210, 228, 218, 1)"},"02-background-toolbar":{"value":"rgba(233, 242, 236, 1)"},"03-text-toolbar":{"value":"rgba(48, 54, 51, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(48, 54, 51, 0.9)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(48, 54, 51, 0.15)"},"04-background-content-light":{"value":"rgba(245, 249, 247, 1)"},"05-border-low-contrast":{"value":"rgba(217, 232, 223, 1)"},"08-highlight-rows":{"value":"rgba(210, 228, 217, 0.7)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(62, 101, 78, 1)"},"11-update-alert":{"value":"rgba(78, 106, 90, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(235, 128, 28, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(62, 101, 78, 1)"}},"lush-medium":{"00-base-color":{"value":"rgba(132, 149, 139, 1)"},"01-background-base":{"value":"rgba(64, 89, 74, 1)"},"02-background-toolbar":{"value":"rgba(78, 106, 90, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.8)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.2)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.25)"},"04-background-content-light":{"value":"rgba(205, 214, 208, 1)"},"05-border-low-contrast":{"value":"rgba(96, 159, 122, 1)"},"08-highlight-rows":{"value":"rgba(65, 139, 96, 0.3)"},"09a-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(239, 241, 239, 1)"},"10-url-details":{"value":"rgba(69, 95, 77, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15a-icon-status-on-dark-background":{"value":"rgba(210, 228, 218, 1)"},"15b-icon-status-on-light-background":{"value":"rgba(69, 95, 77, 1)"}},"lush-dark":{"00-base-color":{"value":"rgba(42, 97, 58, 1)"},"01-background-base":{"value":"rgba(69, 95, 77, 1)"},"02-background-toolbar":{"value":"rgba(95, 129, 105, 1)"},"03-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(50, 52, 51, 1)"},"05-border-low-contrast":{"value":"rgba(80, 98, 86, 1)"},"06-border-high-contrast":{"value":"rgba(113, 132, 119, 1)"},"08-highlight-rows":{"value":"rgba(105, 150, 118, 0.42)"},"09-modal-backgrounds":{"value":"rgba(70, 73, 71, 1)"},"10-url-details":{"value":"rgba(203, 235, 217, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(203, 235, 217, 1)"}},"abstract-light":{"00-base-color":{"value":"rgba(226, 117, 80, 1)"},"01-background-base":{"value":"rgba(255, 173, 143, 1)"},"02-background-toolbar":{"value":"rgba(255, 188, 163, 1)"},"03-text-toolbar":{"value":"rgba(21, 20, 19, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(21, 20, 19, 0.85)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(21, 20, 19, 0.15)"},"04-background-content-light":{"value":"rgba(253, 245, 242, 1)"},"05-border-low-contrast":{"value":"rgba(240, 186, 168, 1)"},"08-highlight-rows":{"value":"rgba(242, 71, 13, 0.2)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(165, 63, 29, 1)"},"11-update-alert":{"value":"rgba(78, 106, 90, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(153, 101, 41, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(165, 63, 29, 1)"}},"abstract-medium":{"00-base-color":{"value":"rgba(230, 125, 90, 1)"},"01-background-base":{"value":"rgba(140, 60, 33, 1)"},"02-background-toolbar":{"value":"rgba(165, 71, 39, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.75)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.15)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(224, 194, 184, 1)"},"05-border-low-contrast":{"value":"rgba(230, 125, 90, 1)"},"08-highlight-rows":{"value":"rgba(241, 128, 91, 0.3)"},"09a-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(253, 245, 242, 1)"},"10-url-details":{"value":"rgba(165, 71, 39, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 158, 158, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15a-icon-status-on-dark-background":{"value":"rgba(255, 188, 163, 1)"},"15b-icon-status-on-light-background":{"value":"rgba(165, 71, 39, 1)"}},"abstract-dark":{"00-base-color":{"value":"rgba(230, 125, 90, 1)"},"01-background-base":{"value":"rgba(45, 39, 37, 1)"},"02-background-toolbar":{"value":"rgba(70, 61, 57, 1)"},"03-text-toolbar":{"value":"rgba(251, 205, 187, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(251, 205, 187, 0.9)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(251, 205, 187, 0.2)"},"04-background-content-light":{"value":"rgba(36, 32, 30, 1)"},"05-border-low-contrast":{"value":"rgba(255, 204, 185, 1)"},"06-border-high-contrast":{"value":"rgba(255, 204, 185, 1)"},"08-highlight-rows":{"value":"rgba(255, 204, 185, 0.2)"},"09-modal-backgrounds":{"value":"rgba(56, 52, 51, 1)"},"10-url-details":{"value":"rgba(250, 191, 168, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(229, 174, 153, 1)"}},"elemental-light":{"00-base-color":{"value":"rgba(161, 157, 148, 1)"},"01-background-base":{"value":"rgba(226, 225, 222, 1)"},"02-background-toolbar":{"value":"rgba(241, 240, 239, 1)"},"03-text-toolbar":{"value":"rgba(28, 27, 23, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(28, 27, 23, 0.88)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(28, 27, 23, 0.1)"},"04-background-content-light":{"value":"rgba(243, 243, 241, 1)"},"05-border-low-contrast":{"value":"rgba(219, 218, 214, 1)"},"08-highlight-rows":{"value":"rgba(191, 188, 182, 0.4)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(103, 99, 90, 1)"},"11-update-alert":{"value":"rgba(78, 106, 90, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(235, 128, 28, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(103, 99, 90, 1)"}},"elemental-medium":{"00-base-color":{"value":"rgba(103, 99, 90, 1)"},"01-background-base":{"value":"rgba(82, 78, 71, 1)"},"02-background-toolbar":{"value":"rgba(109, 105, 95, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.7)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.15)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(49, 47, 43, 1)"},"05-border-low-contrast":{"value":"rgba(160, 156, 146, 1)"},"08-highlight-rows":{"value":"rgba(184, 180, 173, 0.4)"},"09a-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(236, 235, 233, 1)"},"10-url-details":{"value":"rgba(87, 91, 89, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15a-icon-status-on-dark-background":{"value":"rgba(220, 218, 214, 1)"},"15b-icon-status-on-light-background":{"value":"rgba(49, 47, 43, 1)"}},"elemental-dark":{"00-base-color":{"value":"rgba(103, 99, 90, 1)"},"01-background-base":{"value":"rgba(82, 78, 71, 1)"},"02-background-toolbar":{"value":"rgba(114, 110, 100, 1)"},"03-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 0.9)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(82, 78, 71, 1)"},"05-border-low-contrast":{"value":"rgba(109, 105, 95, 1)"},"06-border-high-contrast":{"value":"rgba(103, 99, 90, 1)"},"08-highlight-rows":{"value":"rgba(184, 180, 173, 0.3)"},"09-modal-backgrounds":{"value":"rgba(68, 65, 59, 1)"},"10-url-details":{"value":"rgba(231, 230, 228, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 184, 184, 1)"},"13-warning-alert":{"value":"rgba(237, 196, 49, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(226, 225, 222, 1)"}},"cheers-light":{"00-base-color":{"value":"rgba(215, 175, 80, 1)"},"01-background-base":{"value":"rgba(255, 210, 102, 1)"},"02-background-toolbar":{"value":"rgba(255, 231, 173, 1)"},"03-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.78)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.1)"},"04-background-content-light":{"value":"rgba(247, 240, 222, 1)"},"05-border-low-contrast":{"value":"rgba(255, 195, 51, 1)"},"08-highlight-rows":{"value":"rgba(255, 222, 143, 0.3)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(143, 100, 0, 1)"},"11-update-alert":{"value":"rgba(78, 106, 86, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(202, 107, 18, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(153, 107, 0, 1)"}},"cheers-medium":{"00-base-color":{"value":"rgba(215, 175, 80, 1)"},"01-background-base":{"value":"rgba(250, 192, 56, 1)"},"02-background-toolbar":{"value":"rgba(251, 208, 106, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.85)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.15)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 0.85)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(23, 23, 23, 1)"},"05-border-low-contrast":{"value":"rgba(234, 213, 164, 1)"},"08-highlight-rows":{"value":"rgba(255, 197, 61, 0.22)"},"09a-modal-backgrounds":{"value":"rgba(51, 51, 51, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(52, 52, 52, 1)"},"10-url-details":{"value":"rgba(250, 192, 56, 1)"},"11-update-alert":{"value":"rgba(78, 106, 86, 1)"},"12-critical-alert":{"value":"rgba(205, 51, 4, 1)"},"13-warning-alert":{"value":"rgba(143, 100, 0, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15a-icon-status-on-light-background":{"category":"color","exportKey":"color","value":"rgba(138, 97, 0, 1)","type":"color"},"15b-icon-status-on-dark-background":{"category":"color","exportKey":"color","value":"rgba(250, 192, 56, 1)","type":"color"}},"cheers-dark":{"00-base-color":{"value":"rgba(215, 175, 80, 1)"},"01-background-base":{"value":"rgba(28, 28, 28, 1)"},"02-background-toolbar":{"value":"rgba(61, 61, 61, 1)"},"03-text-toolbar":{"value":"rgba(251, 200, 81, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(251, 200, 81, 0.85)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(251, 200, 81, 0.2)"},"04-background-content-light":{"value":"rgba(29, 29, 29, 1)"},"05-border-low-contrast":{"value":"rgba(250, 192, 56, 1)"},"06-border-high-contrast":{"value":"rgba(233, 183, 62, 1)"},"08-highlight-rows":{"value":"rgba(250, 192, 56, 0.2)"},"09-modal-backgrounds":{"value":"rgba(52, 52, 52, 1)"},"10-url-details":{"value":"rgba(234, 204, 134, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(234, 204, 134, 1)"}},"graffiti-light":{"00-base-color":{"value":"rgba(171, 157, 179, 1)"},"01-background-base":{"value":"rgba(225, 186, 247, 1)"},"02-background-toolbar":{"value":"rgba(231, 200, 249, 1)"},"03-text-toolbar":{"value":"rgba(27, 20, 31, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(27, 20, 31, 0.85)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(27, 20, 31, 0.15)"},"04-background-content-light":{"value":"rgba(245, 232, 252, 1)"},"05-border-low-contrast":{"value":"rgba(227, 191, 248, 1)"},"08-highlight-rows":{"value":"rgba(211, 154, 244, 0.4)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(123, 76, 150, 1)"},"11-update-alert":{"value":"rgba(78, 106, 90, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(149, 98, 40, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(123, 76, 150, 1)"}},"graffiti-medium":{"00-base-color":{"value":"rgba(123, 76, 150, 1)"},"01-background-base":{"value":"rgba(110, 68, 134, 1)"},"02-background-toolbar":{"value":"rgba(143, 97, 168, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.8)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.15)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(222, 209, 230, 1)"},"05-border-low-contrast":{"value":"rgba(138, 87, 168, 1)"},"08-highlight-rows":{"value":"rgba(211, 154, 244, 0.4)"},"09a-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(243, 238, 246, 1)"},"10-url-details":{"value":"rgba(97, 61, 118, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 220, 92, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15a-icon-status-on-dark-background":{"value":"rgba(245, 232, 252, 1)"},"15b-icon-status-on-light-background":{"value":"rgba(97, 61, 118, 1)"}},"graffiti-dark":{"00-base-color":{"value":"rgba(123, 76, 150, 1)"},"01-background-base":{"value":"rgba(97, 61, 118, 1)"},"02-background-toolbar":{"value":"rgba(131, 89, 155, 1)"},"03-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 0.9)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(31, 28, 34, 1)"},"05-border-low-contrast":{"value":"rgba(116, 75, 140, 1)"},"06-border-high-contrast":{"value":"rgba(138, 87, 168, 1)"},"08-highlight-rows":{"value":"rgba(143, 93, 173, 0.6)"},"09-modal-backgrounds":{"value":"rgba(58, 48, 65, 1)"},"10-url-details":{"value":"rgba(231, 200, 249, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(225, 186, 247, 1)"}},"foto-light":{"00-base-color":{"value":"rgba(204, 157, 164, 1)"},"01-background-base":{"value":"rgba(237, 192, 198, 1)"},"02-background-toolbar":{"value":"rgba(237, 206, 211, 1)"},"03-text-toolbar":{"value":"rgba(27, 14, 16, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(27, 14, 16, 0.8)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(27, 14, 16, 0.1)"},"04-background-content-light":{"value":"rgba(245, 235, 236, 1)"},"05-border-low-contrast":{"value":"rgba(243, 206, 212, 1)"},"08-highlight-rows":{"value":"rgba(233, 185, 192, 0.5)"},"09-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"10-url-details":{"value":"rgba(140, 64, 76, 1)"},"11-update-alert":{"value":"rgba(78, 106, 90, 1)"},"12-critical-alert":{"value":"rgba(211, 53, 4, 1)"},"13-warning-alert":{"value":"rgba(184, 97, 15, 1)"},"14-information-alert":{"value":"rgba(18, 92, 139, 1)"},"15-icon-status":{"value":"rgba(141, 73, 83, 1)"}},"foto-medium":{"00-base-color":{"value":"rgba(204, 157, 164, 1)"},"01-background-base":{"value":"rgba(140, 64, 76, 1)"},"02-background-toolbar":{"value":"rgba(164, 75, 89, 1)"},"03a-text-toolbar":{"value":"rgba(0, 0, 0, 1)"},"03a-text-toolbar-secondary-text":{"value":"rgba(0, 0, 0, 0.75)"},"03a-text-toolbar-toolbar-icon-hover":{"value":"rgba(0, 0, 0, 0.15)"},"03b-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03b-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(223, 185, 191, 1)"},"05-border-low-contrast":{"value":"rgba(203, 120, 133, 1)"},"08-highlight-rows":{"value":"rgba(225, 157, 168, 0.5)"},"09a-modal-backgrounds":{"value":"rgba(255, 255, 255, 1)"},"09b-modal-backgrounds-tab-and-search":{"value":"rgba(245, 234, 236, 1)"},"10-url-details":{"value":"rgba(140, 64, 76, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 140, 140, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15a-icon-status-on-dark-background":{"value":"rgba(237, 192, 198, 1)"},"15b-icon-status-on-light-background":{"value":"rgba(140, 64, 76, 1)"}},"foto-dark":{"00-base-color":{"value":"rgba(204, 157, 164, 1)"},"01-background-base":{"value":"rgba(141, 73, 83, 1)"},"02-background-toolbar":{"value":"rgba(168, 87, 99, 1)"},"03-text-toolbar":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-secondary-text":{"value":"rgba(255, 255, 255, 1)"},"03-text-toolbar-toolbar-icon-hover":{"value":"rgba(255, 255, 255, 0.2)"},"04-background-content-light":{"value":"rgba(49, 37, 39, 1)"},"05-border-low-contrast":{"value":"rgba(154, 80, 91, 1)"},"06-border-high-contrast":{"value":"rgba(171, 94, 105, 1)"},"08-highlight-rows":{"value":"rgba(168, 87, 99, 0.6)"},"09-modal-backgrounds":{"value":"rgba(81, 47, 52, 1)"},"10-url-details":{"value":"rgba(244, 215, 219, 1)"},"11-update-alert":{"value":"rgba(173, 255, 109, 1)"},"12-critical-alert":{"value":"rgba(255, 184, 184, 1)"},"13-warning-alert":{"value":"rgba(255, 219, 90, 1)"},"14-information-alert":{"value":"rgba(109, 255, 237, 1)"},"15-icon-status":{"value":"rgba(237, 192, 198, 1)"}}}
+{
+  "lush-light": {
+    "00-base-color": {
+      "value": "rgba(132, 149, 139, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(210, 228, 218, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(233, 242, 236, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(48, 54, 51, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(48, 54, 51, 0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(48, 54, 51, 0.15)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(245, 249, 247, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(217, 232, 223, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(210, 228, 217, 0.7)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(62, 101, 78, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(235, 128, 28, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(62, 101, 78, 1)"
+    }
+  },
+  "lush-medium": {
+    "00-base-color": {
+      "value": "rgba(132, 149, 139, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(64, 89, 74, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.8)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.2)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.25)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(205, 214, 208, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(96, 159, 122, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(65, 139, 96, 0.3)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(239, 241, 239, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(69, 95, 77, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15a-icon-status-on-dark-background": {
+      "value": "rgba(210, 228, 218, 1)"
+    },
+    "15b-icon-status-on-light-background": {
+      "value": "rgba(69, 95, 77, 1)"
+    }
+  },
+  "lush-dark": {
+    "00-base-color": {
+      "value": "rgba(42, 97, 58, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(69, 95, 77, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(95, 129, 105, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(50, 52, 51, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(80, 98, 86, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(113, 132, 119, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(105, 150, 118, 0.42)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(70, 73, 71, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(203, 235, 217, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(203, 235, 217, 1)"
+    }
+  },
+  "abstract-light": {
+    "00-base-color": {
+      "value": "rgba(226, 117, 80, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(255, 173, 143, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(255, 188, 163, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(21, 20, 19, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(21, 20, 19, 0.85)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(21, 20, 19, 0.15)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(253, 245, 242, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(240, 186, 168, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(242, 71, 13, 0.2)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(165, 63, 29, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(153, 101, 41, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(165, 63, 29, 1)"
+    }
+  },
+  "abstract-medium": {
+    "00-base-color": {
+      "value": "rgba(230, 125, 90, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(140, 60, 33, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(165, 71, 39, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.75)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(224, 194, 184, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(230, 125, 90, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(241, 128, 91, 0.3)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(253, 245, 242, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(165, 71, 39, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 158, 158, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15a-icon-status-on-dark-background": {
+      "value": "rgba(255, 188, 163, 1)"
+    },
+    "15b-icon-status-on-light-background": {
+      "value": "rgba(165, 71, 39, 1)"
+    }
+  },
+  "abstract-dark": {
+    "00-base-color": {
+      "value": "rgba(230, 125, 90, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(45, 39, 37, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(70, 61, 57, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(251, 205, 187, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(251, 205, 187, 0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(251, 205, 187, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(36, 32, 30, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(255, 204, 185, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(255, 204, 185, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(255, 204, 185, 0.2)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(56, 52, 51, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(250, 191, 168, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(229, 174, 153, 1)"
+    }
+  },
+  "elemental-light": {
+    "00-base-color": {
+      "value": "rgba(161, 157, 148, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(226, 225, 222, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(241, 240, 239, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(28, 27, 23, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(28, 27, 23, 0.88)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(28, 27, 23, 0.1)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(243, 243, 241, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(219, 218, 214, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(191, 188, 182, 0.4)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(103, 99, 90, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(235, 128, 28, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(103, 99, 90, 1)"
+    }
+  },
+  "elemental-medium": {
+    "00-base-color": {
+      "value": "rgba(103, 99, 90, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(82, 78, 71, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(109, 105, 95, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.7)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(49, 47, 43, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(160, 156, 146, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(184, 180, 173, 0.4)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(236, 235, 233, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(87, 91, 89, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15a-icon-status-on-dark-background": {
+      "value": "rgba(220, 218, 214, 1)"
+    },
+    "15b-icon-status-on-light-background": {
+      "value": "rgba(49, 47, 43, 1)"
+    }
+  },
+  "elemental-dark": {
+    "00-base-color": {
+      "value": "rgba(103, 99, 90, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(82, 78, 71, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(114, 110, 100, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(82, 78, 71, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(109, 105, 95, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(103, 99, 90, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(184, 180, 173, 0.3)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(68, 65, 59, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(231, 230, 228, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 184, 184, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(237, 196, 49, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(226, 225, 222, 1)"
+    }
+  },
+  "cheers-light": {
+    "00-base-color": {
+      "value": "rgba(215, 175, 80, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(255, 210, 102, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(255, 231, 173, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.78)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.1)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(247, 240, 222, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(255, 195, 51, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(255, 222, 143, 0.3)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(143, 100, 0, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 86, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(202, 107, 18, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(153, 107, 0, 1)"
+    }
+  },
+  "cheers-medium": {
+    "00-base-color": {
+      "value": "rgba(215, 175, 80, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(250, 192, 56, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(251, 208, 106, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.85)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 0.85)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(23, 23, 23, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(234, 213, 164, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(255, 197, 61, 0.22)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(51, 51, 51, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(52, 52, 52, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(250, 192, 56, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 86, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(205, 51, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(143, 100, 0, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15a-icon-status-on-light-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(138, 97, 0, 1)",
+      "type": "color"
+    },
+    "15b-icon-status-on-dark-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(250, 192, 56, 1)",
+      "type": "color"
+    }
+  },
+  "cheers-dark": {
+    "00-base-color": {
+      "value": "rgba(215, 175, 80, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(28, 28, 28, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(61, 61, 61, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(251, 200, 81, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(251, 200, 81, 0.85)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(251, 200, 81, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(29, 29, 29, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(250, 192, 56, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(233, 183, 62, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(250, 192, 56, 0.2)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(52, 52, 52, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(234, 204, 134, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(234, 204, 134, 1)"
+    }
+  },
+  "graffiti-light": {
+    "00-base-color": {
+      "value": "rgba(171, 157, 179, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(225, 186, 247, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(231, 200, 249, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(27, 20, 31, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(27, 20, 31, 0.85)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(27, 20, 31, 0.15)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(245, 232, 252, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(227, 191, 248, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(211, 154, 244, 0.4)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(123, 76, 150, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(149, 98, 40, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(123, 76, 150, 1)"
+    }
+  },
+  "graffiti-medium": {
+    "00-base-color": {
+      "value": "rgba(123, 76, 150, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(110, 68, 134, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(143, 97, 168, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.8)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(222, 209, 230, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(138, 87, 168, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(211, 154, 244, 0.4)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(243, 238, 246, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(97, 61, 118, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 220, 92, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15a-icon-status-on-dark-background": {
+      "value": "rgba(245, 232, 252, 1)"
+    },
+    "15b-icon-status-on-light-background": {
+      "value": "rgba(97, 61, 118, 1)"
+    }
+  },
+  "graffiti-dark": {
+    "00-base-color": {
+      "value": "rgba(123, 76, 150, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(97, 61, 118, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(131, 89, 155, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(31, 28, 34, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(116, 75, 140, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(138, 87, 168, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(143, 93, 173, 0.6)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(58, 48, 65, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(231, 200, 249, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(225, 186, 247, 1)"
+    }
+  },
+  "foto-light": {
+    "00-base-color": {
+      "value": "rgba(204, 157, 164, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(237, 192, 198, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(237, 206, 211, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(27, 14, 16, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(27, 14, 16, 0.8)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(27, 14, 16, 0.1)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(245, 235, 236, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(243, 206, 212, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(233, 185, 192, 0.5)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(140, 64, 76, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(78, 106, 90, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(211, 53, 4, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(184, 97, 15, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(18, 92, 139, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(141, 73, 83, 1)"
+    }
+  },
+  "foto-medium": {
+    "00-base-color": {
+      "value": "rgba(204, 157, 164, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(140, 64, 76, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(164, 75, 89, 1)"
+    },
+    "03a-text-toolbar": {
+      "value": "rgba(0, 0, 0, 1)"
+    },
+    "03a-text-toolbar-secondary-text": {
+      "value": "rgba(0, 0, 0, 0.75)"
+    },
+    "03a-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    "03b-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03b-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(223, 185, 191, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(203, 120, 133, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(225, 157, 168, 0.5)"
+    },
+    "09a-modal-backgrounds": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "09b-modal-backgrounds-tab-and-search": {
+      "value": "rgba(245, 234, 236, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(140, 64, 76, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 140, 140, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15a-icon-status-on-dark-background": {
+      "value": "rgba(237, 192, 198, 1)"
+    },
+    "15b-icon-status-on-light-background": {
+      "value": "rgba(140, 64, 76, 1)"
+    }
+  },
+  "foto-dark": {
+    "00-base-color": {
+      "value": "rgba(204, 157, 164, 1)"
+    },
+    "01-background-base": {
+      "value": "rgba(141, 73, 83, 1)"
+    },
+    "02-background-toolbar": {
+      "value": "rgba(168, 87, 99, 1)"
+    },
+    "03-text-toolbar": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "rgba(255, 255, 255, 1)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "rgba(255, 255, 255, 0.2)"
+    },
+    "04-background-content-light": {
+      "value": "rgba(49, 37, 39, 1)"
+    },
+    "05-border-low-contrast": {
+      "value": "rgba(154, 80, 91, 1)"
+    },
+    "06-border-high-contrast": {
+      "value": "rgba(171, 94, 105, 1)"
+    },
+    "08-highlight-rows": {
+      "value": "rgba(168, 87, 99, 0.6)"
+    },
+    "09-modal-backgrounds": {
+      "value": "rgba(81, 47, 52, 1)"
+    },
+    "10-url-details": {
+      "value": "rgba(244, 215, 219, 1)"
+    },
+    "11-update-alert": {
+      "value": "rgba(173, 255, 109, 1)"
+    },
+    "12-critical-alert": {
+      "value": "rgba(255, 184, 184, 1)"
+    },
+    "13-warning-alert": {
+      "value": "rgba(255, 219, 90, 1)"
+    },
+    "14-information-alert": {
+      "value": "rgba(109, 255, 237, 1)"
+    },
+    "15-icon-status": {
+      "value": "rgba(237, 192, 198, 1)"
+    }
+  }
+}
