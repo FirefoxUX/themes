@@ -41,54 +41,18 @@ const values = ["00-base-color","01-background-base","02-background-toolbar","03
 
 
 for (let [key, value] of Object.entries(json)) {
-  // console.log(`${key}: ${value}`);
   let val = ""
   for (var i = 0; i < values.length; i++) {
-    // console.log(Object.keys(value)[0]);
     val = values[i].toString()
-    // var test = values[i]
-    // console.log(test);
-    // console.log('"'+ val + '"')
-    // console.log(values[i])
-    
+
     if (json[key][val]) {
       delete json[key][val]["category"]
       delete json[key][val]["exportKey"]
       delete json[key][val]["type"]
-    }
-    
-    
+    }   
   }
-  
-
-  
-  // console.log(json[key]["00-base-color"]["category"]);
-
-
-    // console.log(json[key][val]["category"])
-    // console.log(json[key][val]["exportKey"])
-    // console.log(json[key][val]["exportKey"])
-  
-  // console.log(json[key]["00-base-color"]["category"])
-  // console.log(json[key]["00-base-color"]["exportKey"])
-  // console.log(json[key]["00-base-color"]["exportKey"])
-  // console.log(json[key]["01-background-base"]["category"])
-  // console.log(json[key]["02-background-toolbar"]["category"])
-  // console.log(json[key]["03-text-toolbar"]["category"])
-  // console.log(json[key]["03-text-toolbar-secondary-text"]["category"])
-  // console.log(json[key]["03-text-toolbar-toolbar-icon-hover"]["category"])
-  // console.log(json[key]["04-background-content-light"]["category"])
-  // console.log(json[key]["05-border-low-contrast"]["category"])
-  // console.log(json[key]["08-highlight-rows"]["category"])
-  // console.log(json[key]["09-modal-backgrounds"]["category"])
-  // console.log(json[key]["10-url-details"]["category"])
-  // console.log(json[key]["11-update-alert"]["category"])
-  // console.log(json[key]["12-critical-alert"]["category"])
-  // console.log(json[key]["13-warning-alert"]["category"])
-  // console.log(json[key]["14-information-alert"]["category"])
-  // console.log(json[key]["15-icon-status"]["category"])
 }
-
+  
 fs.writeFile('./tokens/color/dump.json', JSON.stringify(json), (err) => {
   if (err) {
       throw err;
