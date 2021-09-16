@@ -16,10 +16,84 @@ for (let [key, value] of Object.entries(json)) {
       delete json[key][val]["category"]
       delete json[key][val]["exportKey"]
       delete json[key][val]["type"]
+      json[key][val]["value"] = RGBAToHSLA(json[key][val]["value"])
     }   
   }
 }
+
+function RGBAToHSLA(rgba) {
+  let sep = rgba.indexOf(",") > -1 ? "," : " ";
+  rgba = rgba.substr(5).split(")")[0].split(sep);
+
+  // Strip the slash if using space-separated syntax
+  if (rgba.indexOf("/") > -1) 
+    rgba.splice(3,1);
+
+  for (let R in rgba) {
+    let r = rgba[R];
+    if (r.indexOf("%") > -1) {
+      let p = r.substr(0,r.length - 1) / 100;
+
+      if (R < 3) { 
+        rgba[R] = Math.round(p * 255);
+      } else {
+        rgba[R] = p;
+      }
+    }
+  }
+
+  // Make r, g, and b fractions of 1
+  let r = rgba[0] / 255,
+  g = rgba[1] / 255,
+  b = rgba[2] / 255,
+  a = rgba[3]
+
+  // Find greatest and smallest channel values
+  let cmin = Math.min(r,g,b),
+      cmax = Math.max(r,g,b),
+      delta = cmax - cmin,
+      h = 0,
+      s = 0,
+      l = 0;
+
+  if (delta == 0) {
+    h = 0;
+  }
+
+  else if (cmax == r) {
+    h = ((g - b) / delta) % 6;
+  }
   
+  else if (cmax == g) {
+    h = (b - r) / delta + 2;
+  }
+  else {
+    h = (r - g) / delta + 4;
+  }
+  h = Math.round(h * 60);
+    
+  // Make negative hues positive behind 360°
+  if (h < 0) {
+      h += 360;
+  }
+  
+  // Calculate lightness
+  l = (cmax + cmin) / 2;
+
+  // Calculate saturation
+  s = delta == 0 ? 0 : delta / (1 - Math.abs(2 * l - 1));
+    
+  // Multiply l and s by 100
+  s = +(s * 100).toFixed(1);
+  l = +(l * 100).toFixed(1);
+  
+  // Strip the slash if using space-separated syntax
+  if (rgba.indexOf("/") > -1) 
+    rgba.splice(3,1);
+
+  return "hsla(" + h + "," + s + "%," +l + "%," + a + ")";
+}   
+
 fs.writeFile('./tokens/color/dump.json', JSON.stringify(json), (err) => {
   if (err) {
       throw err;
