@@ -339,7 +339,7 @@
     "01-background-base": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(255, 162, 128, 1)",
+      "value": "rgba(255, 173, 143, 1)",
       "type": "color"
     },
     "02-background-toolbar": {
@@ -758,30 +758,6 @@
     }
   },
   "elemental-medium": {
-    "11": {
-      "category": "color",
-      "exportKey": "color",
-      "value": "rgba(173, 255, 109, 1)",
-      "type": "color"
-    },
-    "12": {
-      "category": "color",
-      "exportKey": "color",
-      "value": "rgba(255, 140, 140, 1)",
-      "type": "color"
-    },
-    "13": {
-      "category": "color",
-      "exportKey": "color",
-      "value": "rgba(255, 219, 90, 1)",
-      "type": "color"
-    },
-    "14": {
-      "category": "color",
-      "exportKey": "color",
-      "value": "rgba(109, 255, 237, 1)",
-      "type": "color"
-    },
     "00-base-color": {
       "category": "color",
       "exportKey": "color",
@@ -797,7 +773,7 @@
     "02-background-toolbar": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(141, 136, 125, 1)",
+      "value": "rgba(109, 105, 95, 1)",
       "type": "color"
     },
     "03a-text-toolbar": {
@@ -872,13 +848,37 @@
       "value": "rgba(87, 91, 89, 1)",
       "type": "color"
     },
-    "15a": {
+    "11-update-alert": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(49, 47, 43, 1)",
+      "value": "rgba(173, 255, 109, 1)",
       "type": "color"
     },
-    "15b": {
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 140, 140, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 219, 90, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15a-icon-status-on-dark-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(220, 218, 214, 1)",
+      "type": "color"
+    },
+    "15b-icon-status-on-light-background": {
       "category": "color",
       "exportKey": "color",
       "value": "rgba(49, 47, 43, 1)",
@@ -1055,6 +1055,36 @@
       "exportKey": "color",
       "value": "rgba(143, 100, 0, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(78, 106, 86, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(211, 53, 4, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(202, 107, 18, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(18, 92, 139, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(153, 107, 0, 1)",
+      "type": "color"
     }
   },
   "cheers-medium": {
@@ -1147,6 +1177,42 @@
       "exportKey": "color",
       "value": "rgba(250, 192, 56, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(78, 106, 86, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(205, 51, 4, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(143, 100, 0, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(18, 92, 139, 1)",
+      "type": "color"
+    },
+    "15a-icon-status-on-light-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(138, 97, 0, 1)",
+      "type": "color"
+    },
+    "15b-icon-status-on-dark-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(250, 192, 56, 1)",
+      "type": "color"
     }
   },
   "cheers-dark": {
@@ -1221,6 +1287,36 @@
       "exportKey": "color",
       "value": "rgba(234, 204, 134, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(173, 255, 109, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 140, 140, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 219, 90, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(234, 204, 134, 1)",
+      "type": "color"
     }
   },
   "graffiti-light": {
@@ -1233,13 +1329,13 @@
     "01-background-base": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(215, 163, 245, 1)",
+      "value": "rgba(225, 186, 247, 1)",
       "type": "color"
     },
     "02-background-toolbar": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(225, 186, 247, 1)",
+      "value": "rgba(231, 200, 249, 1)",
       "type": "color"
     },
     "03-text-toolbar": {
@@ -1285,6 +1381,36 @@
       "type": "color"
     },
     "10-url-details": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(123, 76, 150, 1)",
+      "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(78, 106, 90, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(211, 53, 4, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(149, 98, 40, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(18, 92, 139, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
       "category": "color",
       "exportKey": "color",
       "value": "rgba(123, 76, 150, 1)",
@@ -1381,6 +1507,42 @@
       "exportKey": "color",
       "value": "rgba(97, 61, 118, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(173, 255, 109, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 140, 140, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 220, 92, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15a-icon-status-on-dark-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(245, 232, 252, 1)",
+      "type": "color"
+    },
+    "15b-icon-status-on-light-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(97, 61, 118, 1)",
+      "type": "color"
     }
   },
   "graffiti-dark": {
@@ -1455,6 +1617,36 @@
       "exportKey": "color",
       "value": "rgba(231, 200, 249, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(173, 255, 109, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 140, 140, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 219, 90, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(225, 186, 247, 1)",
+      "type": "color"
     }
   },
   "foto-light": {
@@ -1522,6 +1714,36 @@
       "category": "color",
       "exportKey": "color",
       "value": "rgba(140, 64, 76, 1)",
+      "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(78, 106, 90, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(211, 53, 4, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(184, 97, 15, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(18, 92, 139, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(141, 73, 83, 1)",
       "type": "color"
     }
   },
@@ -1615,6 +1837,42 @@
       "exportKey": "color",
       "value": "rgba(140, 64, 76, 1)",
       "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(173, 255, 109, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 140, 140, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 219, 90, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15a-icon-status-on-dark-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(237, 192, 198, 1)",
+      "type": "color"
+    },
+    "15b-icon-status-on-light-background": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(140, 64, 76, 1)",
+      "type": "color"
     }
   },
   "foto-dark": {
@@ -1688,6 +1946,36 @@
       "category": "color",
       "exportKey": "color",
       "value": "rgba(244, 215, 219, 1)",
+      "type": "color"
+    },
+    "11-update-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(173, 255, 109, 1)",
+      "type": "color"
+    },
+    "12-critical-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 184, 184, 1)",
+      "type": "color"
+    },
+    "13-warning-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(255, 219, 90, 1)",
+      "type": "color"
+    },
+    "14-information-alert": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(109, 255, 237, 1)",
+      "type": "color"
+    },
+    "15-icon-status": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(237, 192, 198, 1)",
       "type": "color"
     }
   }
