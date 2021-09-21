@@ -137,7 +137,7 @@ function hexAToHSLA(H) {
   s = delta == 0 ? 0 : delta / (1 - Math.abs(2 * l - 1));
   s = + Math.round(s * 100);
   l = +  Math.round(l * 100);
-  a = (a / 255);
+  a = (a / 255).toFixed(1);
                 
   return "hsla("+ h + "," + s + "," + l + "," + a + ")";
 }
