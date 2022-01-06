@@ -65,7 +65,7 @@ function hexAToHSLA(H) {
   l = +  Math.round(l * 100);
   a = (a / 255).toFixed(1);
                 
-  return "hsla("+ h + "," + s + "," + l + "," + a + ")";
+  return "hsla("+ h + "," + s + "%," + l + "%," + a + ")";
 }
 
 fs.writeFile('./tokens/color/dump.json', JSON.stringify(json), (err) => {
