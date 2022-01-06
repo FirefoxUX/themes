@@ -1,5 +1,5 @@
 {
-  "red-red-panda": {
+  "red": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -177,7 +177,7 @@
       }
     }
   },
-  "orange-mei-lee": {
+  "orange": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -355,7 +355,7 @@
       }
     }
   },
-  "green-miriam": {
+  "green": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -533,7 +533,7 @@
       }
     }
   },
-  "yellow-priya": {
+  "yellow": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -711,7 +711,7 @@
       }
     }
   },
-  "purple-abby": {
+  "purple": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -889,7 +889,7 @@
       }
     }
   },
-  "blue-ming-lee": {
+  "blue": {
     "00-base-color": {
       "description": "",
       "type": "color",
