@@ -1,5 +1,5 @@
 {
-  "banned-light": {
+  "banned-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -177,7 +177,7 @@
       }
     }
   },
-  "banned-medium": {
+  "banned-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -410,7 +410,7 @@
       }
     }
   },
-  "banned-dark": {
+  "banned-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -599,7 +599,7 @@
       }
     }
   },
-  "crowns-light": {
+  "crowns-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -777,7 +777,7 @@
       }
     }
   },
-  "crowns-medium": {
+  "crowns-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1010,7 +1010,7 @@
       }
     }
   },
-  "crowns-dark": {
+  "crowns-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1199,7 +1199,7 @@
       }
     }
   },
-  "figures-of-speech-light": {
+  "figures-of-speech-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1377,7 +1377,7 @@
       }
     }
   },
-  "figures-of-speech-medium": {
+  "figures-of-speech-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1610,7 +1610,7 @@
       }
     }
   },
-  "figures-of-speech-dark": {
+  "figures-of-speech-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1799,7 +1799,7 @@
       }
     }
   },
-  "blueprint-light": {
+  "blueprint-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -1977,7 +1977,7 @@
       }
     }
   },
-  "blueprint-medium": {
+  "blueprint-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -2210,7 +2210,7 @@
       }
     }
   },
-  "blueprint-dark": {
+  "blueprint-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -2399,7 +2399,7 @@
       }
     }
   },
-  "mamba-light": {
+  "mamba-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -2577,7 +2577,7 @@
       }
     }
   },
-  "mamba-medium": {
+  "mamba-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -2810,7 +2810,7 @@
       }
     }
   },
-  "mamba-dark": {
+  "mamba-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -2999,7 +2999,7 @@
       }
     }
   },
-  "echo-light": {
+  "echo-soft": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -3177,7 +3177,7 @@
       }
     }
   },
-  "echo-medium": {
+  "echo-balanced": {
     "00-base-color": {
       "description": "",
       "type": "color",
@@ -3302,7 +3302,7 @@
     "08-highlight-rows": {
       "description": "",
       "type": "color",
-      "value": "#f9dcd1ff",
+      "value": "#f9b4994d",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
           "styleId": "S:69fdc4bc4a75c282d4659802111b67ea8c5d524c,",
@@ -3410,7 +3410,7 @@
       }
     }
   },
-  "echo-dark": {
+  "echo-bold": {
     "00-base-color": {
       "description": "",
       "type": "color",
