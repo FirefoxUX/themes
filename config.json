@@ -6,7 +6,7 @@
       "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "size/rem", "color/hsl"], 
       "buildPath": "output/css/",
       "files": [{
-        "destination": "_variables.css",
+        "destination": "_variables-colorways.css",
         "format": "css/variables"
       }]
     }

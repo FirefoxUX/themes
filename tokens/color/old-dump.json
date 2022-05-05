@@ -1,13 +1,313 @@
 {
-  "banned-light": {
+  "red": {
     "00-base-color": {
-      "value": "hsla(355,86%,78%,1.0)"
+      "value": "hsla(356,95%,67%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(355,92%,85%,1.0)"
+      "value": "hsla(356,95%,67%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(355,100%,93%,1.0)"
+      "value": "hsla(356,91%,75%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,100%,0.7)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(356,84%,88%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(356,61%,78%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(356,75%,76%,0.6)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(356,72%,42%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(145,15%,34%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,97%,42%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(29,100%,36%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(204,75%,28%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(356,72%,27%,1.0)"
+    }
+  },
+  "orange": {
+    "00-base-color": {
+      "value": "hsla(16,94%,65%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(16,94%,65%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(17,92%,80%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,100%,0.7)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(17,92%,90%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(16,72%,76%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(16,90%,50%,0.3)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(16,90%,43%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(145,15%,43%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,97%,46%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(32,98%,44%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(203,77%,41%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(16,70%,38%,1.0)"
+    }
+  },
+  "green": {
+    "00-base-color": {
+      "value": "hsla(142,33%,47%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(142,32%,57%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(142,32%,73%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,100%,0.7)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(143,32%,89%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(142,25%,75%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(142,32%,78%,0.8)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(143,35%,30%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(141,15%,36%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,96%,42%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(29,84%,52%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(203,77%,31%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(142,24%,32%,1.0)"
+    }
+  },
+  "yellow": {
+    "00-base-color": {
+      "value": "hsla(39,97%,70%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(39,98%,63%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(39,98%,84%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,0%,0.2)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(39,97%,87%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(39,100%,68%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(39,100%,72%,0.9)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(39,100%,30%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(138,15%,44%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,97%,45%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(29,84%,51%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(203,77%,41%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(29,84%,46%,1.0)"
+    }
+  },
+  "purple": {
+    "00-base-color": {
+      "value": "hsla(284,34%,66%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(284,35%,70%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(285,36%,81%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,100%,0.7)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(284,35%,88%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(284,80%,77%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(284,61%,75%,0.6)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(285,32%,40%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(145,35%,46%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,88%,52%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(32,98%,51%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(203,80%,50%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(285,35%,42%,1.0)"
+    }
+  },
+  "blue": {
+    "00-base-color": {
+      "value": "hsla(207,43%,60%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(206,43%,65%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(206,43%,78%,1.0)"
+    },
+    "03-text-toolbar": {
+      "value": "hsla(0,0%,0%,1.0)"
+    },
+    "03-text-toolbar-secondary-text": {
+      "value": "hsla(0,0%,0%,0.9)"
+    },
+    "03-text-toolbar-toolbar-icon-hover": {
+      "value": "hsla(0,0%,100%,0.7)"
+    },
+    "04-background-content-light": {
+      "value": "hsla(207,43%,85%,1.0)"
+    },
+    "05-border-low-contrast": {
+      "value": "hsla(207,43%,75%,1.0)"
+    },
+    "08-highlight-rows": {
+      "value": "hsla(207,44%,70%,0.6)"
+    },
+    "09-modal-backgrounds": {
+      "value": "hsla(0,0%,100%,1.0)"
+    },
+    "10-url-details": {
+      "value": "hsla(207,43%,41%,1.0)"
+    },
+    "11-update-alert": {
+      "value": "hsla(145,33%,40%,1.0)"
+    },
+    "12-critical-alert": {
+      "value": "hsla(14,96%,48%,1.0)"
+    },
+    "13-warning-alert": {
+      "value": "hsla(29,90%,51%,1.0)"
+    },
+    "14-information-alert": {
+      "value": "hsla(206,50%,41%,1.0)"
+    },
+    "15-icon-status": {
+      "value": "hsla(207,60%,36%,1.0)"
+    }
+  },
+  "lush-light": {
+    "00-base-color": {
+      "value": "hsla(145,7%,55%,1.0)"
+    },
+    "01-background-base": {
+      "value": "hsla(147,25%,86%,1.0)"
+    },
+    "02-background-toolbar": {
+      "value": "hsla(140,26%,93%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(150,6%,20%,1.0)"
@@ -19,19 +319,19 @@
       "value": "hsla(150,6%,20%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(355,100%,98%,1.0)"
+      "value": "hsla(150,25%,97%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(354,73%,71%,1.0)"
+      "value": "hsla(144,25%,88%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(354,93%,84%,0.3)"
+      "value": "hsla(143,25%,86%,0.7)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(355,57%,53%,1.0)"
+      "value": "hsla(145,24%,32%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(146,15%,36%,1.0)"
@@ -49,15 +349,15 @@
       "value": "hsla(145,24%,32%,1.0)"
     }
   },
-  "banned-medium": {
+  "lush-medium": {
     "00-base-color": {
-      "value": "hsla(354,81%,62%,1.0)"
+      "value": "hsla(145,7%,55%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(354,71%,43%,1.0)"
+      "value": "hsla(144,16%,30%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(354,65%,61%,1.0)"
+      "value": "hsla(146,15%,36%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -78,22 +378,22 @@
       "value": "hsla(0,0%,100%,0.3)"
     },
     "04-background-content-light": {
-      "value": "hsla(355,62%,75%,1.0)"
+      "value": "hsla(140,10%,82%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(354,81%,60%,1.0)"
+      "value": "hsla(145,25%,50%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(355,62%,75%,0.3)"
+      "value": "hsla(145,36%,40%,0.3)"
     },
     "09a-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "09b-modal-backgrounds-tab-and-search": {
-      "value": "hsla(352,65%,95%,1.0)"
+      "value": "hsla(120,7%,94%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(354,79%,40%,1.0)"
+      "value": "hsla(138,16%,32%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -108,21 +408,21 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15a-icon-status-on-dark-background": {
-      "value": "hsla(351,70%,87%,1.0)"
+      "value": "hsla(147,25%,86%,1.0)"
     },
     "15b-icon-status-on-light-background": {
-      "value": "hsla(354,71%,43%,1.0)"
+      "value": "hsla(138,16%,32%,1.0)"
     }
   },
-  "banned-dark": {
+  "lush-dark": {
     "00-base-color": {
-      "value": "hsla(354,71%,43%,1.0)"
+      "value": "hsla(137,40%,27%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(354,68%,37%,1.0)"
+      "value": "hsla(139,16%,30%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(354,52%,47%,1.0)"
+      "value": "hsla(139,15%,42%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -134,19 +434,19 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(0,6%,10%,1.0)"
+      "value": "hsla(150,2%,20%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(354,84%,27%,1.0)"
+      "value": "hsla(140,10%,35%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(354,80%,40%,1.0)"
+      "value": "hsla(139,8%,48%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(354,71%,43%,0.4)"
+      "value": "hsla(137,18%,50%,0.4)"
     },
     "09-modal-backgrounds": {
-      "value": "hsla(0,5%,22%,1.0)"
+      "value": "hsla(140,2%,28%,1.0)"
     },
     "10-url-details": {
       "value": "hsla(146,44%,86%,1.0)"
@@ -167,15 +467,15 @@
       "value": "hsla(146,44%,86%,1.0)"
     }
   },
-  "crowns-light": {
+  "abstract-light": {
     "00-base-color": {
-      "value": "hsla(43,99%,64%,1.0)"
+      "value": "hsla(15,72%,60%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(33,100%,83%,1.0)"
+      "value": "hsla(15,100%,78%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(34,100%,91%,1.0)"
+      "value": "hsla(14,100%,86%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(30,5%,8%,1.0)"
@@ -187,19 +487,19 @@
       "value": "hsla(30,5%,8%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(35,100%,96%,1.0)"
+      "value": "hsla(16,73%,97%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(33,82%,58%,1.0)"
+      "value": "hsla(15,71%,80%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(40,90%,50%,0.2)"
+      "value": "hsla(15,90%,50%,0.2)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(33,82%,53%,1.0)"
+      "value": "hsla(15,70%,38%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(146,15%,36%,1.0)"
@@ -214,18 +514,18 @@
       "value": "hsla(203,77%,31%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(33,100%,41%,1.0)"
+      "value": "hsla(15,70%,38%,1.0)"
     }
   },
-  "crowns-medium": {
+  "abstract-medium": {
     "00-base-color": {
-      "value": "hsla(33,90%,61%,1.0)"
+      "value": "hsla(15,74%,63%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(33,86%,48%,1.0)"
+      "value": "hsla(15,62%,34%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(33,82%,67%,1.0)"
+      "value": "hsla(15,62%,40%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -237,7 +537,7 @@
       "value": "hsla(0,0%,0%,0.1)"
     },
     "03b-text-toolbar": {
-      "value": "hsla(0,0%,0%,1.0)"
+      "value": "hsla(0,0%,100%,1.0)"
     },
     "03b-text-toolbar-secondary-text": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -246,22 +546,22 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(34,72%,87%,1.0)"
+      "value": "hsla(15,39%,80%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(33,100%,49%,1.0)"
+      "value": "hsla(15,74%,63%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(33,86%,48%,0.3)"
+      "value": "hsla(15,84%,65%,0.3)"
     },
     "09a-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "09b-modal-backgrounds-tab-and-search": {
-      "value": "hsla(34,100%,96%,1.0)"
+      "value": "hsla(16,73%,97%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(33,97%,43%,1.0)"
+      "value": "hsla(15,62%,40%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -276,15 +576,15 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15a-icon-status-on-dark-background": {
-      "value": "hsla(33,100%,39%,1.0)"
+      "value": "hsla(16,100%,82%,1.0)"
     },
     "15b-icon-status-on-light-background": {
       "value": "hsla(15,62%,40%,1.0)"
     }
   },
-  "crowns-dark": {
+  "abstract-dark": {
     "00-base-color": {
-      "value": "hsla(33,86%,48%,1.0)"
+      "value": "hsla(15,74%,63%,1.0)"
     },
     "01-background-base": {
       "value": "hsla(15,10%,16%,1.0)"
@@ -293,22 +593,22 @@
       "value": "hsla(18,10%,25%,1.0)"
     },
     "03-text-toolbar": {
-      "value": "hsla(33,100%,64%,1.0)"
+      "value": "hsla(15,89%,86%,1.0)"
     },
     "03-text-toolbar-secondary-text": {
-      "value": "hsla(33,78%,68%,1.0)"
+      "value": "hsla(15,89%,86%,0.9)"
     },
     "03-text-toolbar-toolbar-icon-hover": {
-      "value": "hsla(41,97%,54%,0.2)"
+      "value": "hsla(15,89%,86%,0.2)"
     },
     "04-background-content-light": {
       "value": "hsla(20,9%,13%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(36,88%,47%,1.0)"
+      "value": "hsla(15,100%,86%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(35,93%,61%,1.0)"
+      "value": "hsla(15,100%,86%,1.0)"
     },
     "08-highlight-rows": {
       "value": "hsla(15,100%,86%,0.2)"
@@ -317,7 +617,7 @@
       "value": "hsla(12,5%,21%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(35,100%,72%,1.0)"
+      "value": "hsla(15,89%,82%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -332,18 +632,18 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(35,96%,71%,1.0)"
+      "value": "hsla(15,59%,75%,1.0)"
     }
   },
-  "figures-of-speech-light": {
+  "elemental-light": {
     "00-base-color": {
-      "value": "hsla(147,61%,63%,1.0)"
+      "value": "hsla(42,6%,61%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(147,53%,75%,1.0)"
+      "value": "hsla(45,6%,88%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(146,49%,85%,1.0)"
+      "value": "hsla(30,7%,94%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(48,10%,10%,1.0)"
@@ -355,19 +655,19 @@
       "value": "hsla(48,10%,10%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(148,100%,97%,1.0)"
+      "value": "hsla(60,8%,95%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(147,74%,33%,1.0)"
+      "value": "hsla(48,6%,85%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(147,54%,52%,0.3)"
+      "value": "hsla(40,7%,73%,0.4)"
     },
     "09-modal-backgrounds": {
-      "value": "hsla(140,60%,98%,1.0)"
+      "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(147,73%,27%,1.0)"
+      "value": "hsla(42,7%,38%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(146,15%,36%,1.0)"
@@ -385,15 +685,15 @@
       "value": "hsla(42,7%,38%,1.0)"
     }
   },
-  "figures-of-speech-medium": {
+  "elemental-medium": {
     "00-base-color": {
-      "value": "hsla(147,79%,32%,1.0)"
+      "value": "hsla(42,7%,38%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(147,94%,25%,1.0)"
+      "value": "hsla(38,7%,30%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(146,56%,37%,1.0)"
+      "value": "hsla(43,7%,40%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -414,22 +714,22 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(146,30%,86%,1.0)"
+      "value": "hsla(47,8%,78%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(147,40%,45%,1.0)"
+      "value": "hsla(43,7%,60%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(147,40%,78%,0.3)"
+      "value": "hsla(40,7%,55%,0.4)"
     },
     "09a-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "09b-modal-backgrounds-tab-and-search": {
-      "value": "hsla(150,57%,97%,1.0)"
+      "value": "hsla(40,7%,92%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(147,89%,19%,1.0)"
+      "value": "hsla(150,2%,35%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -444,21 +744,21 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15a-icon-status-on-dark-background": {
-      "value": "hsla(147,57%,76%,1.0)"
+      "value": "hsla(40,8%,85%,1.0)"
     },
     "15b-icon-status-on-light-background": {
       "value": "hsla(40,7%,18%,1.0)"
     }
   },
-  "figures-of-speech-dark": {
+  "elemental-dark": {
     "00-base-color": {
-      "value": "hsla(147,85%,21%,1.0)"
+      "value": "hsla(42,7%,38%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(146,89%,11%,1.0)"
+      "value": "hsla(38,7%,30%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(147,82%,17%,1.0)"
+      "value": "hsla(39,6%,43%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -470,19 +770,19 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(144,19%,10%,1.0)"
+      "value": "hsla(38,7%,30%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(146,79%,11%,1.0)"
+      "value": "hsla(43,7%,40%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(146,65%,21%,1.0)"
+      "value": "hsla(42,7%,38%,1.0)"
     },
     "08-highlight-rows": {
       "value": "hsla(38,7%,70%,0.3)"
     },
     "09-modal-backgrounds": {
-      "value": "hsla(146,17%,16%,1.0)"
+      "value": "hsla(40,7%,25%,1.0)"
     },
     "10-url-details": {
       "value": "hsla(40,6%,90%,1.0)"
@@ -500,18 +800,18 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(147,21%,45%,1.0)"
+      "value": "hsla(45,6%,88%,1.0)"
     }
   },
-  "blueprint-light": {
+  "cheers-light": {
     "00-base-color": {
-      "value": "hsla(226,54%,56%,1.0)"
+      "value": "hsla(42,63%,58%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(226,45%,79%,1.0)"
+      "value": "hsla(42,100%,70%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(226,41%,85%,1.0)"
+      "value": "hsla(42,100%,84%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -523,45 +823,45 @@
       "value": "hsla(0,0%,0%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(226,68%,96%,1.0)"
+      "value": "hsla(43,61%,92%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(226,54%,56%,1.0)"
+      "value": "hsla(42,100%,60%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(226,54%,56%,0.3)"
+      "value": "hsla(42,100%,78%,0.9)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(226,67%,37%,1.0)"
+      "value": "hsla(42,100%,25%,1.0)"
     },
     "11-update-alert": {
-      "value": "hsla(94,100%,71%,1.0)"
+      "value": "hsla(137,15%,36%,1.0)"
     },
     "12-critical-alert": {
-      "value": "hsla(0,100%,77%,1.0)"
+      "value": "hsla(14,96%,42%,1.0)"
     },
     "13-warning-alert": {
-      "value": "hsla(47,100%,68%,1.0)"
+      "value": "hsla(29,84%,43%,1.0)"
     },
     "14-information-alert": {
-      "value": "hsla(60,7%,92%,1.0)"
+      "value": "hsla(203,77%,31%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(40,7%,18%,1.0)"
+      "value": "hsla(42,100%,30%,1.0)"
     }
   },
-  "blueprint-medium": {
+  "cheers-medium": {
     "00-base-color": {
-      "value": "hsla(220,65%,40%,1.0)"
+      "value": "hsla(42,63%,58%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(220,72%,28%,1.0)"
+      "value": "hsla(42,95%,60%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(220,49%,48%,1.0)"
+      "value": "hsla(42,95%,70%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -582,45 +882,45 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(220,54%,80%,1.0)"
+      "value": "hsla(0,0%,9%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(220,58%,39%,1.0)"
+      "value": "hsla(42,62%,78%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(220,54%,80%,0.3)"
+      "value": "hsla(42,100%,62%,0.2)"
     },
     "09a-modal-backgrounds": {
-      "value": "hsla(228,100%,99%,1.0)"
+      "value": "hsla(0,0%,20%,1.0)"
     },
     "09b-modal-backgrounds-tab-and-search": {
-      "value": "hsla(223,100%,99%,1.0)"
+      "value": "hsla(0,0%,20%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(220,76%,31%,1.0)"
+      "value": "hsla(42,95%,60%,1.0)"
     },
     "11-update-alert": {
-      "value": "hsla(94,100%,71%,1.0)"
+      "value": "hsla(137,15%,36%,1.0)"
     },
     "12-critical-alert": {
-      "value": "hsla(0,100%,77%,1.0)"
+      "value": "hsla(14,96%,41%,1.0)"
     },
     "13-warning-alert": {
-      "value": "hsla(47,100%,68%,1.0)"
+      "value": "hsla(42,100%,28%,1.0)"
     },
     "14-information-alert": {
-      "value": "hsla(173,100%,71%,1.0)"
+      "value": "hsla(203,77%,31%,1.0)"
     },
     "15a-icon-status-on-light-background": {
-      "value": "hsla(220,73%,68%,1.0)"
+      "value": "hsla(42,100%,27%,1.0)"
     },
     "15b-icon-status-on-dark-background": {
-      "value": "hsla(40,7%,18%,1.0)"
+      "value": "hsla(42,95%,60%,1.0)"
     }
   },
-  "blueprint-dark": {
+  "cheers-dark": {
     "00-base-color": {
-      "value": "hsla(220,72%,28%,1.0)"
+      "value": "hsla(42,63%,58%,1.0)"
     },
     "01-background-base": {
       "value": "hsla(0,0%,11%,1.0)"
@@ -629,31 +929,31 @@
       "value": "hsla(0,0%,20%,1.0)"
     },
     "03-text-toolbar": {
-      "value": "hsla(220,89%,69%,1.0)"
+      "value": "hsla(42,96%,65%,1.0)"
     },
     "03-text-toolbar-secondary-text": {
-      "value": "hsla(220,80%,79%,1.0)"
+      "value": "hsla(42,96%,65%,0.9)"
     },
     "03-text-toolbar-toolbar-icon-hover": {
-      "value": "hsla(214,100%,44%,0.2)"
+      "value": "hsla(42,96%,65%,0.2)"
     },
     "04-background-content-light": {
       "value": "hsla(0,0%,11%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(220,69%,66%,1.0)"
+      "value": "hsla(42,95%,60%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(220,54%,67%,1.0)"
+      "value": "hsla(42,80%,58%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(220,89%,69%,0.2)"
+      "value": "hsla(42,95%,60%,0.2)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,16%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(219,37%,59%,1.0)"
+      "value": "hsla(42,70%,72%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -668,18 +968,18 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(220,70%,78%,1.0)"
+      "value": "hsla(42,70%,72%,1.0)"
     }
   },
-  "mamba-light": {
+  "graffiti-light": {
     "00-base-color": {
-      "value": "hsla(259,47%,65%,1.0)"
+      "value": "hsla(278,13%,66%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(258,49%,84%,1.0)"
+      "value": "hsla(278,79%,85%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(259,55%,89%,1.0)"
+      "value": "hsla(278,78%,91%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(278,22%,10%,1.0)"
@@ -691,19 +991,19 @@
       "value": "hsla(278,22%,10%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(258,68%,95%,1.0)"
+      "value": "hsla(279,77%,95%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(258,77%,74%,1.0)"
+      "value": "hsla(283,34%,88%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(259,56%,79%,0.3)"
+      "value": "hsla(278,80%,78%,0.4)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(258,46%,46%,1.0)"
+      "value": "hsla(278,33%,44%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(146,15%,36%,1.0)"
@@ -721,15 +1021,15 @@
       "value": "hsla(278,33%,44%,1.0)"
     }
   },
-  "mamba-medium": {
+  "graffiti-medium": {
     "00-base-color": {
-      "value": "hsla(266,49%,45%,1.0)"
+      "value": "hsla(278,33%,44%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(266,39%,35%,1.0)"
+      "value": "hsla(278,33%,40%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(266,29%,54%,1.0)"
+      "value": "hsla(279,29%,52%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -750,13 +1050,13 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(264,43%,85%,1.0)"
+      "value": "hsla(277,30%,86%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(266,66%,24%,1.0)"
+      "value": "hsla(278,32%,50%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(264,43%,85%,0.3)"
+      "value": "hsla(278,80%,78%,0.4)"
     },
     "09a-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -765,7 +1065,7 @@
       "value": "hsla(277,31%,95%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(266,39%,35%,1.0)"
+      "value": "hsla(278,32%,35%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -786,15 +1086,15 @@
       "value": "hsla(278,32%,35%,1.0)"
     }
   },
-  "mamba-dark": {
+  "graffiti-dark": {
     "00-base-color": {
-      "value": "hsla(266,39%,35%,1.0)"
+      "value": "hsla(278,33%,44%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(266,68%,20%,1.0)"
+      "value": "hsla(279,31%,28%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(265,45%,29%,1.0)"
+      "value": "hsla(278,27%,40%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -809,19 +1109,19 @@
       "value": "hsla(270,10%,12%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(266,67%,28%,1.0)"
+      "value": "hsla(278,30%,42%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(266,49%,45%,1.0)"
+      "value": "hsla(278,32%,50%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(266,39%,35%,0.6)"
+      "value": "hsla(278,33%,52%,0.6)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(275,15%,22%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(266,72%,82%,1.0)"
+      "value": "hsla(278,80%,88%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -836,18 +1136,18 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(266,96%,71%,1.0)"
+      "value": "hsla(278,79%,85%,1.0)"
     }
   },
-  "echo-light": {
+  "foto-light": {
     "00-base-color": {
-      "value": "hsla(14,85%,67%,1.0)"
+      "value": "hsla(351,32%,71%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(14,81%,81%,1.0)"
+      "value": "hsla(352,56%,84%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(14,64%,87%,1.0)"
+      "value": "hsla(351,46%,89%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(351,32%,8%,1.0)"
@@ -859,19 +1159,19 @@
       "value": "hsla(351,32%,8%,0.1)"
     },
     "04-background-content-light": {
-      "value": "hsla(14,84%,95%,1.0)"
+      "value": "hsla(354,33%,94%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(14,85%,70%,1.0)"
+      "value": "hsla(350,61%,88%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(14,83%,76%,0.4)"
+      "value": "hsla(351,52%,82%,0.5)"
     },
     "09-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(14,86%,41%,1.0)"
+      "value": "hsla(351,37%,40%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(146,15%,36%,1.0)"
@@ -886,18 +1186,18 @@
       "value": "hsla(203,77%,31%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(14,89%,35%,1.0)"
+      "value": "hsla(351,32%,42%,1.0)"
     }
   },
-  "echo-medium": {
+  "foto-medium": {
     "00-base-color": {
-      "value": "hsla(10,74%,53%,1.0)"
+      "value": "hsla(351,32%,71%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(10,94%,58%,1.0)"
+      "value": "hsla(351,37%,40%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(10,94%,68%,1.0)"
+      "value": "hsla(351,37%,47%,1.0)"
     },
     "03a-text-toolbar": {
       "value": "hsla(0,0%,0%,1.0)"
@@ -918,22 +1218,22 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(11,100%,90%,1.0)"
+      "value": "hsla(351,37%,80%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(11,75%,49%,1.0)"
+      "value": "hsla(351,44%,63%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(17,77%,90%,1.0)"
+      "value": "hsla(350,53%,75%,0.5)"
     },
     "09a-modal-backgrounds": {
       "value": "hsla(0,0%,100%,1.0)"
     },
     "09b-modal-backgrounds-tab-and-search": {
-      "value": "hsla(12,100%,91%,1.0)"
+      "value": "hsla(349,35%,94%,1.0)"
     },
     "10-url-details": {
-      "value": "hsla(10,86%,40%,1.0)"
+      "value": "hsla(351,37%,40%,1.0)"
     },
     "11-update-alert": {
       "value": "hsla(94,100%,71%,1.0)"
@@ -948,21 +1248,21 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15a-icon-status-on-dark-background": {
-      "value": "hsla(17,84%,87%,1.0)"
+      "value": "hsla(352,56%,84%,1.0)"
     },
     "15b-icon-status-on-light-background": {
-      "value": "hsla(10,86%,40%,1.0)"
+      "value": "hsla(351,37%,40%,1.0)"
     }
   },
-  "echo-dark": {
+  "foto-dark": {
     "00-base-color": {
-      "value": "hsla(10,94%,58%,1.0)"
+      "value": "hsla(351,32%,71%,1.0)"
     },
     "01-background-base": {
-      "value": "hsla(11,87%,32%,1.0)"
+      "value": "hsla(350,32%,30%,1.0)"
     },
     "02-background-toolbar": {
-      "value": "hsla(11,100%,23%,1.0)"
+      "value": "hsla(351,32%,42%,1.0)"
     },
     "03-text-toolbar": {
       "value": "hsla(0,0%,100%,1.0)"
@@ -974,19 +1274,19 @@
       "value": "hsla(0,0%,100%,0.2)"
     },
     "04-background-content-light": {
-      "value": "hsla(350,18%,13%,1.0)"
+      "value": "hsla(350,14%,17%,1.0)"
     },
     "05-border-low-contrast": {
-      "value": "hsla(10,94%,19%,1.0)"
+      "value": "hsla(351,32%,46%,1.0)"
     },
     "06-border-high-contrast": {
-      "value": "hsla(10,78%,31%,1.0)"
+      "value": "hsla(351,31%,52%,1.0)"
     },
     "08-highlight-rows": {
-      "value": "hsla(10,85%,36%,0.3)"
+      "value": "hsla(351,32%,50%,0.6)"
     },
     "09-modal-backgrounds": {
-      "value": "hsla(10,89%,14%,1.0)"
+      "value": "hsla(351,27%,25%,1.0)"
     },
     "10-url-details": {
       "value": "hsla(350,57%,90%,1.0)"
@@ -1004,7 +1304,7 @@
       "value": "hsla(173,100%,71%,1.0)"
     },
     "15-icon-status": {
-      "value": "hsla(10,78%,67%,1.0)"
+      "value": "hsla(352,56%,84%,1.0)"
     }
   }
 }
