@@ -1,3 +1,8 @@
-# Basic Style Dictionary for Firefox Themes
+# Themes
+Generate Firefox themes using [design-tokens](https://github.com/lukasoppermann/design-tokens) to export color tokens out of Figma.
 
-We use Amazon's [Style Dictionary](https://amzn.github.io/style-dictionary) plugin to generate HSL theme colors for our styles from our Figma file.
+## How to use
+
+1. Run Design Tokens to generate color JSON export 
+2. Add export to tokens/color/base.json
+3. Run clean-json.js script to dump a JSON file ready for the [create-theme-script](https://github.com/FirefoxUX/create-theme-script)
