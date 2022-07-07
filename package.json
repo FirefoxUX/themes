@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/FirefoxUX/themes/issues"
   },
-  "homepage": "https://github.com/FirefoxUX/themes#readme",
-  "devDependencies": {
-    "style-dictionary": "^3.0.2"
-  },
-  "dependencies": {
-    "python": "0.0.4"
-  }
+  "homepage": "https://github.com/FirefoxUX/themes#readme"
 }
